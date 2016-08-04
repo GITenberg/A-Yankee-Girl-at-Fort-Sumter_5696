@@ -1,0 +1,27 @@
+_repo: A-Yankee-Girl-at-Fort-Sumter_5696
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Curtis, Alice Turner
+    alias: Turner, Alice
+    gutenberg_agent_id: '1841'
+    url: http://www.gutenberg.org/2009/agents/1841
+description: When she is caught up in the events that will lead to the start of the
+  Civil War, ten-year-old Sylvia is glad for the several good friends, including a
+  young slave girl, she has made while living in Charleston, South Carolina.
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5696'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Juvenile fiction'
+- !lcsh 'Charleston (S.C.) -- History -- Civil War, 1861-1865 -- Juvenile fiction'
+- GITenberg
+title: A Yankee Girl at Fort Sumter
+url: http://www.gutenberg.org/ebooks/5696
